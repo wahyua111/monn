@@ -52,7 +52,7 @@ class Data:
 
  • Creator: @{}
  • Source Code: <a href='https://t.me/INFOVIRALTEL'>CHANNEL1 v4</a>
- • CHANNEL 2 DAN 3: @DONASIBUAS @lumerbasah
+ • CHANNEL 2 DAN 3: @DONASIBUAS @LUMERBASAH
 
 👨‍💻 Develoved by @familynvn founder @cieemarah </b>
 """
