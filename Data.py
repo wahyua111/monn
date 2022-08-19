@@ -51,7 +51,7 @@ class Data:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
 
  • Creator: @{}
- • Source Code: <a href='https://t.me/INFOVIRALTEL'>CHANNEL1 v4</a>
+ • Source Code: <a href='https://t.me/INFOVIRALTEL'>CHANNEL1</a>
  • CHANNEL 2 DAN 3: @DONASIBUAS @LUMERBASAH
 
 👨‍💻 Develoved by @familynvn founder @cieemarah </b>
