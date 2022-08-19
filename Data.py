@@ -24,7 +24,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @familynvn founder @cieemarah </b>
 """
 
     close = [
@@ -52,7 +52,7 @@ class Data:
 
  • Creator: @{}
  • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
- • Owner Repo: @mrismanaziz
+ • Owner Repo: @cieemarah
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @familynvn founder @cieemarah </b>
 """
