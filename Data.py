@@ -51,8 +51,8 @@ class Data:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
 
  • Creator: @{}
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
- • Owner Repo: @cieemarah
+ • Source Code: <a href='https://t.me/INFOVIRALTEL'>CHANNEL1 v4</a>
+ • CHANNEL 2 DAN 3: @DONASIBUAS @lumerbasah
 
 👨‍💻 Develoved by @familynvn founder @cieemarah </b>
 """
